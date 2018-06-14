@@ -16,7 +16,7 @@ iOS 뉴비의 초보를 벗어나기 위한 고군분투
 
 ## Junior-Roadmap-Study
 
-* [00. Roadmap]()
+* [00. Roadmap](https://github.com/junhyogi/iOS-Newbie/blob/master/junior-roadmap-study/00_Roadmap.md)
 * [01. KVO]()
 * [02. Communication Patterns]()
 * [03. RxSwift]()
