@@ -19,4 +19,4 @@ iOS 뉴비의 초보를 벗어나기 위한 고군분투
 * [00. Roadmap]()
 * [01. KVO]()
 * [02. Communication Patterns]()
-* [03. RxSwict]()
+* [03. RxSwift]()
